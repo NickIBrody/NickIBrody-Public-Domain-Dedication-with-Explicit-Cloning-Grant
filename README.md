@@ -1,1 +1,1 @@
-# NickIBrody-Public-Domain-Dedication-with-Explicit-Cloning-Grant
+This software is dedicated to the public domain. The author has waived all copyright and related rights. You may use, copy, modify, publish, sell, or relicense this code freely — no attribution required. See LICENSE for details.
